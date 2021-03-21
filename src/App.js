@@ -3,15 +3,15 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Portfolio from "./pages/Portfolio"
-import NavBar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Container from "./components/Container";
 import SideContainer from "./components/SideContainer";
 import Footer from "./components/Footer";
 
 function App() {
-  <div>
+  return(
     <Router>
-      <NavBar />
+      <Navbar />
       <Container>
         <Switch>
           <Route exact path="/" component={Home} />
@@ -23,7 +23,7 @@ function App() {
       <SideContainer />
       <Footer />
     </Router>
-  </div>;
+  );
 }
 
 export default App;
