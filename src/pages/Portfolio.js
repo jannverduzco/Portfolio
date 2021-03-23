@@ -55,9 +55,6 @@ function Portfolio() {
               Professional README.md Generator on GitHub
               </a>
             </Row>
-            <Row>
-              <a href="https://auto-mind.herokuapp.com/">AutoMind on Heroku</a>
-            </Row>
           </ProjectLink>
         </Col>
         <Col md={6}>
