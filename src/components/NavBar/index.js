@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <ReactBootStrap.Navbar bg="dark" expand="md"  variant="dark">
+    <ReactBootStrap.Navbar className="navigationBar" bg="dark" expand="md"  variant="dark">
       <ReactBootStrap.Navbar.Brand>
         Janneth Alvarado Verduzco
       </ReactBootStrap.Navbar.Brand>
