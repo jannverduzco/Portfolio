@@ -1,15 +1,15 @@
 import React from "react";
 import Container from "../components/Container";
-import PageTitle from "../components/PageTitle";
+import Image from "../components/Image";
+
 function Home() {
   return (
     <Container>
-      <PageTitle>
-          <h1>About Me</h1>
-      </PageTitle>
+      <h1>About Me</h1>
+      <Image backgroundImage=""></Image>
+
       <div className="row">
         <div className="col-md-10">
-          {/* <img src="Assets/ProfPicture.jpg" alt="Janneth-Alvarado-Verduzco" style="width:200px;height:230px;" id="img-pic" /> */}
           <p>
             Hello! My name is Janneth. I was born in Mexico but moved to America
             when I was 9 years of age. I started 4th grade in Texas, San Antonio
