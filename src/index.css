@@ -23,6 +23,19 @@ code {
   flex: 1;
 }
 
+.container {
+  padding-top: 40px;
+  background-color:#3BBA9C;
+}
+
+.home-container{
+  text-align: center;
+}
+
+form {
+  padding: 20px;
+}
+
 /* Outter container at 768px media query */
 
 @media screen and (max-width:768px) {

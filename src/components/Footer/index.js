@@ -6,6 +6,7 @@ function Footer() {
     <footer className="footer">
       Copyright © Janneth Alvarado Verduzco
     </footer>
+    
   );
 }
 

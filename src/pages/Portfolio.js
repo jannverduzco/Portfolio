@@ -11,7 +11,7 @@ import ProjectLink from "../components/ProjectLink";
 
 function Portfolio() {
   return (
-    <Container>
+    <Container className="home-container">
       <Row>
         <Col md={6}>
           <ProjectTitle> AutoMind</ProjectTitle>
@@ -73,6 +73,7 @@ function Portfolio() {
           </ProjectLink>
         </Col>
       </Row>
+
     </Container>
   );
 }

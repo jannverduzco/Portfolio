@@ -4,14 +4,14 @@ import jannethV from "../Assets/jannethV.jpg";
 
 function Home() {
   return (
-    <Container>
+    <Container className="home-container">
       <h1>About Me</h1>
       <img src={jannethV} alt="Janneth Verduzco" height={200} width={200} />
 
       <div className="row">
         <div className="col-md-10">
           <p>
-            Hello! My name is Janneth. I was born in Mexico but moved to America
+            <b>Hi!</b> My name is Janneth. I was born in Mexico but moved to America
             when I was 9 years of age. I started 4th grade in Texas, San Antonio
             to be specific, and I have been here ever since. In middle school I
             struggled with the language given that I was starting to be part of
