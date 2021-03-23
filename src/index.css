@@ -16,9 +16,41 @@ code {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-
+  
 }
 
 .content-wrap {
   flex: 1;
+}
+
+/* Outter container at 768px media query */
+
+@media screen and (max-width:768px) {
+  .main-container {
+      width: 90%;
+      justify-content: center;
+      text-align: center;
+      margin: 0 auto;
+  }
+  /* Portfolio placeholder images margin at 768px media query */
+  #placeholder-img {
+      width: 90%;
+      justify-content: center;
+  }
+}
+
+/* Outter container at 400px media query */
+
+@media screen and (max-width:400px) {
+  .main-container {
+      width: 100%;
+      justify-content: center;
+      text-align: center;
+      margin: 15px;
+  }
+  /* Portfolio placeholder images margin at 400px media query */
+  #placeholder-img {
+      width: 100%;
+      justify-content: center;
+  }
 }

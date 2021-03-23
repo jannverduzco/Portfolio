@@ -11,7 +11,7 @@
 
 ## Description
 
-My portfolio features previous projects. The projects vary in content but the basis of the technology used across these projects is HTML5, CSS, JavaScript, jQuery, NodeJs, Sequelize, MongoDB and some use of API’s. There is a contact section where one can provide the required information to be contacted by me. There is also a section About Me where you can get to know a little about me.
+My portfolio features previous projects. The projects vary in content but the basis of the technology used across these projects is HTML5, CSS, JavaScript, jQuery, NodeJS,, Sequelize, MongoDB and some use of API’s. There is a contact section where one can provide the required information to be contacted by me. There is also a section About Me where you can get to know a little about me.
 
 ## Contributors
 

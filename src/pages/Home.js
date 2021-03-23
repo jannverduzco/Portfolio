@@ -1,12 +1,12 @@
 import React from "react";
 import Container from "../components/Container";
-import Image from "../components/Image";
+import jannethV from "../Assets/jannethV.jpg";
 
 function Home() {
   return (
     <Container>
       <h1>About Me</h1>
-      <Image backgroundImage=""></Image>
+      <img src={jannethV} alt="Janneth Verduzco" height={200} width={200} />
 
       <div className="row">
         <div className="col-md-10">
