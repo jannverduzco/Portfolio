@@ -24,7 +24,7 @@ My portfolio features previous projects. The projects vary in content but the ba
 - Bootstrap (react)
 - React
 - JSX
-- Heroku (Deployment)
+- GitHub Pages (Deployment)
 - ESLint (Testing code)
 
 ## Display
@@ -33,7 +33,7 @@ My portfolio features previous projects. The projects vary in content but the ba
 
 ## Deployed Link
 
-https://janneth-alvarado-portfolio.herokuapp.com/
+https://jannverduzco.github.io/
 
 ## GitHub Repository Link
 
