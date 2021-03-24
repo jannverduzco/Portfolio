@@ -35,6 +35,7 @@ function Contact() {
           Submit
         </Button>
       </Form>
+      <Icons />
     </Container>
   );
 }
