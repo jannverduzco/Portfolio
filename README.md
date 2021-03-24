@@ -29,7 +29,7 @@ My portfolio features previous projects. The projects vary in content but the ba
 
 ## Display
 
-![GitHub Logo](Assets/AboutmeSnapshot.PNG)
+![GitHub Logo](src/Assets/portfolio.jpg)
 
 ## Deployed Link
 
