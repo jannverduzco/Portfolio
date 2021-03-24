@@ -33,7 +33,7 @@ My portfolio features previous projects. The projects vary in content but the ba
 
 ## Deployed Link
 
-https://jannverduzco.github.io/
+https://jannverduzco.github.io/Portfolio/
 
 ## GitHub Repository Link
 
